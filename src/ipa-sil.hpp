@@ -1,4 +1,4 @@
-*
+/*
  * SPDX-FileCopyrightText: 2023 Yuki Joou <yukijoou [a] kemonomimi [-] gay>
  *
  * SPDX-License-Identifier: BSD-3-Clause

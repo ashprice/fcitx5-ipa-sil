@@ -21,3 +21,4 @@ AlignOperands: AlignAfterOperator
 AlignTrailingComments: true
 
 ColumnLimit: 80
+

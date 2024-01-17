@@ -6,4 +6,3 @@ Library=ipa-sil
 Type=SharedLibrary
 OnDemand=True
 Configurable=True
-
