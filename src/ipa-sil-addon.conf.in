@@ -1,0 +1,9 @@
+[Addon]
+Name=IPA SIL
+Category=InputMethod
+Version=@PROJECT_VERSION@
+Library=ipa-sil
+Type=SharedLibrary
+OnDemand=True
+Configurable=True
+
