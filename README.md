@@ -19,6 +19,8 @@ I may eventually make modifications to the SIL layout as I think more about the 
 
 ## Building & trying it out!
 
+Build or install with your package manager the [fcitx5-chinese-addons](https://github.com/fcitx/fcitx5-chinese-addons) and [libime](https://github.com/fcitx/libime) packages and their further dependencies. (I did consider stripping out the table library in the former so this could be installed as a single package, but it is not very big.)
+
 ```console
 $ mkdir -p build/
 $ cd build/
