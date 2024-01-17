@@ -34,5 +34,5 @@ You can then restart fcitx5, and add the `SIL IPA` input method to your selected
 
 # Credits
 
-Original inspiration by [yukijou](https://git.kemonomimi.gay/yukijoou), whose code I used to figure out how these input methods work (or at least a small part of that). Most of the credit goes to the original developers of and current maintainers of fcitx5, fcitx5-chinese-addons, and libime.
+Original inspiration by [yukijou](https://git.kemonomimi.gay/yukijoou), whose code I used to figure out how these input methods work (or at least a small part of that). Most of the credit for the current code goes to the original developers of and current maintainers of fcitx5, fcitx5-chinese-addons, and libime.
 
