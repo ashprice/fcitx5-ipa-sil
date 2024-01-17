@@ -1,6 +1,6 @@
 # fcitx5-ipa-sil
 
-This is an IME for [fcitx5](https://fcitx-im.org/wiki/Fcitx_5) that brings support for the [SIL IPA](https://keyman.com/keyboards/sil_ipa) input method.
+This is an IME for [fcitx5](https://fcitx-im.org/wiki/Fcitx_5) that brings support for the [SIL IPA](https://keyman.com/keyboards/sil_ipa) input method. Consider this layout to be in beta - the original SIL layout is in the table, and I am currently testing the functionality and considering if I should expand it to cover characters not covered by the original layout. Please open issues or pull requests for: broken character combinations, input bugs, or a better way to handle spaces following designated IME characters.
 
 This allows the user to type IPA characters fairly easily by inputting only ASCII.
 
@@ -13,7 +13,7 @@ Here are a few examples of input to IPA conversion:
 | ŋ   | `n>`  |
 | a   | `a`   |
 
-**This is still a work in progress**: I originally forked [yukijou](https://git.kemonomimi.gay/yukijoou)'s original layout to add support for more characters and diacritic combinations, however I have now switched to a table-based method using [fcitx5-chinese-addons](https://github.com/fcitx/fcitx5-chinese-addons) and [libime](https://github.com/fcitx/libime). For now this is just a proof of concept, I will complete the remaining characters in the coming days - I expect there to be issues that will need troubleshooting as I do so.
+I originally forked [yukijou](https://git.kemonomimi.gay/yukijoou)'s original layout to add support for more characters and diacritic combinations, however I have now switched to a table-based method using [fcitx5-chinese-addons](https://github.com/fcitx/fcitx5-chinese-addons) and [libime](https://github.com/fcitx/libime).
 
 I may eventually make modifications to the SIL layout as I think more about the practicality of certain input combinations.
 
