@@ -15,6 +15,8 @@ Here are a few examples of input to IPA conversion:
 
 **This is still a work in progress**: I forked [yukijou](https://git.kemonomimi.gay/yukijoou)'s original layout to add support for more characters and diacritic combinations. I haven't looked into how to support stacked diacritics yet, so if you want to give a pull request or start your own fork, please let me know! (I will probably package this for the Arch user repository soon.)
 
+I may eventually make modifications to the SIL layout as I think more about the practicality of certain input combinations.
+
 ## Building & trying it out!
 
 ```console
@@ -30,6 +32,5 @@ You can then restart fcitx5, and add the `SIL IPA` input method to your selected
 
 # Credits
 
-Original development by [yukijou](https://git.kemonomimi.gay/yukijoou). I have created a fork of their original layout so that I can customize it and make my own - I wasn't aware of how to write fcitx5 layouts before looking at theirs, and will probably write some more in addition to this one, but all original credit for the basic code goes to them.
-
+Original development by [yukijou](https://git.kemonomimi.gay/yukijoou). I have created a fork of their original layout so that I can customize it and add further character support - I wasn't aware of how to write fcitx5 layouts before looking at theirs, and will probably write some more in addition to this one, but all original credit for the basic code goes to them.
 
