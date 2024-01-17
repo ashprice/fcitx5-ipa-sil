@@ -2,7 +2,7 @@
 Name=IPA SIL
 Category=InputMethod
 Version=@PROJECT_VERSION@
-Library=ipa-sil
+Library=libtable
 Type=SharedLibrary
 OnDemand=True
 Configurable=True
