@@ -13,7 +13,7 @@ Here are a few examples of input to IPA conversion:
 | ŋ   | `n>`  |
 | a   | `a`   |
 
-**This is still a work in progress**: I forked [yukijou](https://git.kemonomimi.gay/yukijoou)'s original layout to add support for more characters and diacritic combinations. I haven't looked into how to support stacked diacritics yet, so if you want to give a pull request or start your own fork, please let me know! (I will probably package this for the Arch user repository soon.)
+**This is still a work in progress**: I originally forked [yukijou](https://git.kemonomimi.gay/yukijoou)'s original layout to add support for more characters and diacritic combinations, however I have now switched to a table-based method using [fcitx5-chinese-addons](https://github.com/fcitx/fcitx5-chinese-addons) and [libime](https://github.com/fcitx/libime). For now this is just a proof of concept, I will complete the remaining characters in the coming days - I expect there to be issues that will need troubleshooting as I do so.
 
 I may eventually make modifications to the SIL layout as I think more about the practicality of certain input combinations.
 
@@ -32,5 +32,5 @@ You can then restart fcitx5, and add the `SIL IPA` input method to your selected
 
 # Credits
 
-Original development by [yukijou](https://git.kemonomimi.gay/yukijoou). I have created a fork of their original layout so that I can customize it and add further character support - I wasn't aware of how to write fcitx5 layouts before looking at theirs, and will probably write some more in addition to this one, but all original credit for the basic code goes to them.
+Original inspiration by [yukijou](https://git.kemonomimi.gay/yukijoou), whose code I used to figure out how these input methods work (or at least a small part of that). Most of the credit goes to the original developers of and current maintainers of fcitx5, fcitx5-chinese-addons, and libime.
 
