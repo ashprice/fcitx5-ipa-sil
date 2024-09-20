@@ -1,4 +1,4 @@
-KeyCode=+!\%&'-./0123456789:<=>$?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_`abcdefghijklmnopqrstuvwxyz{|}~"
+KeyCode=+!\%&'-./0123456789:<=>$?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_`abcdefghijklmnopqrstuvwxyz{|}~"#
 Length=6
 Prompt=
 ConstructPhrase=
